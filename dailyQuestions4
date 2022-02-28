@@ -1,0 +1,37 @@
+1.OOPS stand for
+    Object Oriented Programming Languages.
+2.Polymorphism:
+    Perform single action in different ways.
+ Type:
+    * Method Overloading-compile time.Eg.println();
+    * Method Overriding-run time.Eg.setFileDetector
+ 3.Interface:
+    Interface is a group of related methods with empty body.
+    Eg.SearchContext,WebDriver
+ 4.Abstract class:
+    An Abstract class is a class that is declared abstract.It may or may not include abstract method.
+    Eg.webDriverManager
+ 5.Multipe Inheritance:
+    * When a class inherits from many base class.
+    * It is not possible in Java.
+   Multilevel Inheritance:
+    * When a class inherits from a derived class making that derived a base class for a new class.
+    * It is possible in Java.
+  6.Is multiple inheritance possible in Java:
+      No,Multiple inheritance is not possible in Java.Beacause of ambiguity.
+  7.Keyword for using inheritance:
+      To inherits from a class,use the extends keywords
+  8.Keyword to connect interface and class:
+      To connect the interface and class,use the implements keywords.
+  9.Class:
+      * A class describe the attributes and behaviours of an objects.
+      * It contains abstract method and concrete method.
+    Interface:
+      * An interface contains behaviours that a class implemets.
+      * It contains only abstract class.
+  10.Class:
+      * A concrete class cannot contains abstract method.
+      * It is instantiate.
+     Abstract Class:
+      * An abstract class may or may not contains abstract method.
+      * It is not instantiate.
